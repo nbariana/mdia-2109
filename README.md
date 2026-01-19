@@ -2,54 +2,45 @@
 
 This is my README
 
-And here's the mona lisa
+And here is flower thrower
 
-iIYVVVVXVVVVVVVVVYVYVYYVYYYYIIIIYYYIYVVVYYYYYYYYYVVYVVVVXVVVVVYI+.
-tYVXXXXXXVXXXXVVVYVVVVVVVVVVVVYVVVVVVVVVVVVVVVVVXXXXXVXXXXXXXVVYi.
-iYXRXRRRXXXXXXXXXXXVVXVXVVVVVVVVXXXVXVVXXXXXXXXXXXXXXRRRRRRRRRXVi.
-tVRRRRRRRRRRRRRRRXRXXXXXXXXXXXXXXRRXXXXRRRRXXXXXXXRRRRRRRRRRRRXV+.
-tVRRBBBRMBRRRRRRRRRXXRRRRRXt=+;;;;;==iVXRRRRXXXXRRRRRRRRMMBRRRRXi,
-tVRRBMBBMMBBBBBMBBRBBBRBX++=++;;;;;;:;;;IRRRRXXRRRBBBBBBMMBBBRRXi,
-iVRMMMMMMMMMMMMMMBRBBMMV==iIVYIi=;;;;:::;;XRRRRRRBBMMMMMMMMBBRRXi.
-iVRMMMMMMMMMMMMMMMMMMMY;IBWWWWMMXYi=;:::::;RBBBMMMMMMMMMMMMMMBBXi,
-+VRMMRBMMMMMMMMMMMMMMY+;VMMMMMMMRXIi=;:::::=VVXXXRRRMMMMMMMMBBMXi;
-=tYYVVVXRRRXXRBMMMMMV+;=RBBMMMXVXXVYt;::::::ttYYVYVVRMMMMMMBXXVI+=
-;=tIYYVYYYYYYVVVMMMBt=;;+i=IBi+t==;;i;::::::+iitIIttYRMMMMMRXVVI=;
-;=IIIIYYYIIIIttIYItIt;;=VVYXBIVRXVVXI;::::::;+iitttttVMMBRRRVVVI+,
-;+++tttIttttiiii+i++==;;RMMMBXXMMMXI+;::::::;+ittttitYVXVYYIYVIi;;
-;===iiittiiIitiii++;;;;:IVRVi=iBXVIi;::::::::;==+++++iiittii+++=;;
-;;==+iiiiiiiiii+++=;;;;;;VYVIiiiVVt+;::::::::;++++++++++iti++++=;;
-;;=++iiii+i+++++iii==;;;::tXYIIYIi+=;:::::,::;+++++++++++++++++=;;
-;;;+==+ii+++++iiiiit=;;:::::=====;;;::::::::::+++i+++++++++i+++;;;
-;;;==+=+iiiiitttIIII+;;;:,::,;;;;:;=;;;::,::::=++++++++==++++++;;;
-:;====+tittiiittttti+;;::::,:=Ytiiiiti=;:::::,:;;==ii+ittItii+==;;
-;;+iiittIti+ii;;===;;:;::::;+IVXVVVVVVt;;;;;::::;;===;+IIiiti=;;;;
-;=++++iIti+ii+=;;;=;:::;;+VXBMMBBBBBBXY=;=;;:::::;=iYVIIttii++;;;;
-;;++iiiItttIi+++=;;:::;=iBMMMMMMMMMMMXI==;;,::;;:;;=+itIttIIti+;;;
-;=+++++i+tYIIiii;:,::;itXMMMMMMMMMMMBXti==;:;++=;:::::;=+iittti+;;
-;;+ii+ii+iitiIi;::::;iXBMMMMMWWWWWMMBXti+ii=;::::,,,,:::=;==+tI+;;
-;;iiiitItttti;:::;::=+itYXXMWWWWWWMBYt+;;::,,,,,,,,,,,,,:==;==;;;;
-:;=iIIIttIt+:;:::;;;==;+=+iiittttti+;;:,:,,,,::,,,,,,,,:::;=;==::;
-;::=+ittiii=;:::::;;;:;:;=++==;;==;:,,,,,,:;::::,,,,,,,,::;==;;::;
-:::;+iiiii=;::::,:;:::::;;:;;::;:::,,,,,,,:::;=;;;:,,,,,:::;;::::;
-:;;iIIIIII=;:::,:::::::,::::,:::,,,,,,,,,,,:;;=;:,,,,,,::::;=;:::;
-:;==++ii+;;;:::::::::::,,,,,,::,,,,,,,,,,,::::,,,,,,,,,,:,:::::::;
-::;;=+=;;;:::;;::,,,,,,,,,,,,,,,,,,,,,,,,,:,,,,,,,,,,,,,,,,,:::::;
-::;=;;;:;:::;;;;::,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,::,,::::;
-:;;:;::::::,::,,:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,:::;
-:::::::::::;;;:,,,,,,,,,,,,,...,...,,,.,,,,,,,,,,,,.,,,,,,,,,,,,:;
-::::::::;=;;;;;::,,,,,,,,,,,.......,...,,,,,,,,,,,,.,,,,,,,,,,,,,;
-:::::,,:;=;;;;;;;iVXXXVt+:,,....,,,,....,.,,,,,,,.,.....,,,,,,,,:;
-:,,::,,:::;;;;;;=IVVVXXXXVXVt:,,,,,..,..,,,,.,,,,,..,.,,,,,,,,,,,;
-::,::,,,:,:::::,::;=iIYVXVVVVIYIi;,,.,.,,,::,,,,,,,,,,,,,,,,,,,,,.
-:,,,,,,,,,,,,,,,,::;+itIIIIIIi:;;i++=;;;;;;;;;::,,,...,,..,,,,,,,.
-:,,,,,,,,,,,,,,=iitVYi++iitt==it;;:;;;;::;;::::,,,......,,,,,,,::.
-::,,,,,,,,,,,,,++iiIVIi=;;=;+i;:;+:::,,,,,,,,,,,,,.....,,,,,,,,::,
-,,,,,,,,,,,,,,,;=+it=:::,,,,,,,,,,.,......,,.,..........,,,,,,,,::
-:,,,,,,,,,,,,,,,,:=:,,,,,,,,,,,,,,......................,.,,.,.,,:
-:,,,,,,,,,,,,,,,,,:,,,,,,,,,,..,........................,..,...,,:
-,,,,,,,,,,,,,,,,,,,.....................................,.......,,
-,,,,,,,,,.,,,,,,,...............................................,,
-itittiiiii+=++=;;=iiiiiiittiiiiii+iii===;++iiitiiiiiii+=====+ii=+i
+                        .s$$$Ss.
+            .8,         $$$. _. .              ..sS$$$$$"  ...,.;
+ o.   ,@..  88        =.$"$'  '          ..sS$$$$$$$$$$$$s. _;"'
+  @@@.@@@. .88.   `  ` ""l. .sS$$.._.sS$$$$$$$$$$$$S'"'
+   .@@@q@@.8888o.         .s$$$$$$$$$$$$$$$$$$$$$'
+     .:`@@@@33333.       .>$$$$$$$$$$$$$$$$$$$$'
+     .: `@@@@333'       ..>$$$$$$$$$$$$$$$$$$$'
+      :  `@@333.     `.,   s$$$$$$$$$$$$$$$$$'
+      :   `@33       $$ S.s$$$$$$$$$$$$$$$$$'
+      .S   `Y      ..`  ,"$' `$$$$$$$$$$$$$$
+      $s  .       ..S$s,    . .`$$$$$$$$$$$$.
+      $s .,      ,s ,$$$$,,sS$s.$$$$$$$$$$$$$.
+      / /$$SsS.s. ..s$$$$$$$$$$$$$$$$$$$$$$$$$.
+     /`.`$$$$$dN.ssS$$'`$$$$$$$$$$$$$$$$$$$$$$$.
+    ///   `$$$$$$$$$'    `$$$$$$$$$$$$$$$$$$$$$$.
+   ///|     `S$$S$'       `$$$$$$$$$$$$$$$$$$$$$$.
+  / /                      $$$$$$$$$$$$$$$$$$$$$.
+                           `$$$$$$$$$$$$$$$$$$$$$s.
+                            $$$"'        .?T$$$$$$$
+                           .$'        ...      ?$$#\
+                           !       -=S$$$$$s
+                         .!       -=s$$'  `$=-_      :
+                        ,        .$$$'     `$,       .|
+                       ,       .$$$'          .        ,
+                      ,     ..$$$'
+                          .s$$$'                 `s     .
+                   .   .s$$$$'                    $s. ..$s
+                  .  .s$$$$'                      `$s=s$$$
+                    .$$$$'                         ,    $$s
+               `   " .$$'                               $$$
+               ,   s$$'                              .  $$$s
+            ` .s..s$'                                .s ,$$
+             .s$$$'                                   "s$$$,
+          -   $$$'                                     .$$$$.
+        ."  .s$$s                                     .$',',$.
+        $s.s$$$$S..............   ................    $$....s$s......
+         `""'           `     ```"""""""""""""""         `""   ``
+
 
 
