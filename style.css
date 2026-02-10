@@ -1,0 +1,15 @@
+body {
+  background-color: #36454F;
+  color: white;
+  display: flex;
+  flex-direction: column; 
+  justify-content: center; 
+  align-items: center; 
+  text-align: left;
+  width: 20rem;
+}
+
+.lab__list {
+    align-self: center;
+    max-width: 10rem;
+}
