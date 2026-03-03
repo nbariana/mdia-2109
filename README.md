@@ -20,6 +20,16 @@
 
 
 ## Focus Area
-
+I’m focusing on creating a complete and satisfying story. I would like to be able to create a game experience with believable characters and a word that feels lived in. My main goal within this is to have a story that can flow nicely from beginning to end with meaningful story beats.
 
 ## Action Plan
+1. Research narrative structure and story pacing in games
+ 
+2. Study character arc development
+   
+3. Break down stories from games I like and figure out why/how they feel complete
+
+4. Write multiple drafts and have my teammates review them with me to see what might feel confusing or lacking
+
+5. Practice writing my own characters and their motivations
+
